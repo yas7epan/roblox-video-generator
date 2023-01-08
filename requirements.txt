@@ -1,0 +1,3 @@
+gTTS==2.2.4
+fandom-py==0.2.1
+moviepy==1.0.3
